@@ -24,15 +24,8 @@ Our commitment to user privacy remains a top priority. As we integrate KYC proce
 
 KYC information will be securely stored, and we will leverage blockchain technology to enhance data security, ensuring that user data is protected against unauthorized access.
 
-## Staying Informed
 
-### Release Notes and Announcements
 
-Stay informed about upcoming features, including the KYC integration, by regularly checking our release notes and announcements. We will provide detailed information on the new functionalities and improvements in each release.
-
-## Getting Started
-
-Explore the current version of our app and experience its core functionalities. As we work towards integrating KYC in future versions, your feedback will be invaluable in shaping a secure and user-friendly experience.
 
 ## Conclusion
 
