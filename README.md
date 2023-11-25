@@ -1,4 +1,29 @@
-# KYC Integration and Future Enhancements
+# 🌐 **Web3 Data Exchange Platform**
+
+Welcome to our decentralized data exchange platform! 🚀
+
+# Project concept description
+
+As we all know, one of the main goals of the transition to web3 and the blockchain technology is to
+guarantee the decentralization and the removal of the third parties that own and manipulate the data.
+
+However we noticed a major problem due to the huge request for data in order to develop AI Products,
+whether by huge companies, startups, or individuals.
+
+So we came up with a solution, a decentralized platform that runs on a blockchain network, for
+companies to share requests for data, and individuals to fill the data requests and get paid for it while
+maintaining their privacy and anonymity.
+
+Each data request, made by a company, must follows a set of rules of privacy and do not ask for
+personal informations that are related to a person’s identity.
+
+We will guarentee a high level of integrity of the data submissions by avoiding that one person fills a
+request multiple times using fake generated data and multiple public keys.
+
+The solution is delivered as a DApp (Decentralized Application) that is user-friendly to ease the data
+contribution process for normal users, and provides a seperate interface for companies to submit their
+data collection requests.
+# KYC Integration in Future Versions
 
 ## Overview
 
@@ -38,6 +63,5 @@ KYC information is securely stored, and blockchain technology is leveraged to en
 
 ### Release Notes and Announcements
 
-Stay informed about the latest features and upcoming enhancements by regularly checking our release notes and announcements. Detailed information on new functionalities and improvements will be provided with each release.
-
+Stay informed about upcoming features, including the KYC integration, by regularly checking our release notes and announcements. We will provide detailed information on the new functionalities and improvements in each release.
 
