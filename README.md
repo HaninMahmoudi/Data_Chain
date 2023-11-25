@@ -1,3 +1,7 @@
+# 🌐 **Web3 Data Exchange Platform**
+
+Welcome to our decentralized data exchange platform! 🚀
+
 # Project concept description
 
 As we all know, one of the main goals of the transition to web3 and the blockchain technology is to
